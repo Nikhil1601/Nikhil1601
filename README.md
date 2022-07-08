@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil1601
-- 👀 I’m interested in machine learning and deep learning
+- 👀 I’m interested in machine learning,deep learning, software development and problem solving
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on machine learning,deep learning,website devlopment
 - 📫 Email-:nikhilg1602@gmail.com  Linkedin profile-:www.linkedin.com/in/nikhil-gautam-0960ab222
