@@ -1,4 +1,4 @@
-<img align="right" src=:"https://visitor-badge.laaobi.icu/badge?page_id=Nikhil1601.Nikhil!601"/>
+<!--<img align="right" src=:"https://visitor-badge.laaobi.icu/badge?page_id=Nikhil1601.Nikhil!601"/>-->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Nikhil+Gautam!;" />
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nikhil1601/Nikhil1601/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Nikhil1601/Nikhil1601/blob/main/main.yml" />
   
   <br/><br/><br/>
 </div>
