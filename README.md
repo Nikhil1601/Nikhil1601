@@ -57,6 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
  <div align=center>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil1601" alt="nikhil1601" /></a> </p>
+
   <!--<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1601&" alt="nikhil1601" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=nikhil1601&show_icons=true&locale=en" alt="nikhil1601" /> -->
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil1601&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="nikhil1601" />
