@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Websockets, AWS, Redis, Pubs....**
+ 🌱 I’m currently learning **Docker, Jira, AWS, Redis, Pubs....**
 
 💬 Ask me about **Node.js, React, Angular... or anything [here](https://github.com/Nikhil1601/Nikhil1601/issues)**
 
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,angular,html,css,github,tailwind,git,redux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql,solidity,tensorflow,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,angular,html,css,github,tailwind,git,redux,agile" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql,solidity,tensorflow,pytorch,jira" /><br>
 </div>
 
 <br/>
