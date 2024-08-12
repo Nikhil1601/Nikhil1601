@@ -62,7 +62,7 @@
 
   <!--<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1601&" alt="nikhil1601" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=nikhil1601&show_icons=true&locale=en" alt="nikhil1601" /> -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil1601&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="nikhil1601" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil1601&show_icons=true&locale=en&layout=compact" alt="nikhil1601" />
 </div>
 
 <br/><br/>
